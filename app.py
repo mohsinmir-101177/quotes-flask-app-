@@ -9,6 +9,7 @@ quotes = [
     "Consistency is the key to success.",
     "CI/CD Pipeline Test Successful!.",
     "Check automated Build,test and Deployment of the Flask App once pushed to the GitHub Repository."
+    "Hi Sajad This is a test message to check the automated build, test and deployment of the Flask App once pushed to the GitHub Repository."
 ]
 
 # API Route

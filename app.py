@@ -7,6 +7,7 @@ quotes = [
     "Verily, with hardship comes ease.",
     "Practice makes a man perfect.",
     "Consistency is the key to success."
+    "CI/CD Pipeline Test Successful!"
 ]
 
 # API Route

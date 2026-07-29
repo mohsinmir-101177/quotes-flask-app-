@@ -6,9 +6,9 @@ app = Flask(__name__)
 quotes = [
     "Verily, with hardship comes ease.",
     "Practice makes a man perfect.",
-    "Consistency is the key to success."
-    "CI/CD Pipeline Test Successful!"
-    "Check automated Build,test and Deployment of the Flask App once pushed to the GitHub Repository.   "
+    "Consistency is the key to success.",
+    "CI/CD Pipeline Test Successful!.",
+    "Check automated Build,test and Deployment of the Flask App once pushed to the GitHub Repository."
 ]
 
 # API Route
